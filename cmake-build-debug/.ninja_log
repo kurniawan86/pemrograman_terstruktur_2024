@@ -1,0 +1,7 @@
+# ninja log v6
+11	327	1735547104735792385	CMakeFiles/pemrograman_terstruktur_2024.dir/main.cpp.o	d2940d14abfa4bfe
+1	370	1735547146594011525	CMakeFiles/demoUASC__2024.dir/main.cpp.o	bc6896202532c8ca
+1	373	1735547146594351403	CMakeFiles/demoUASC__2024.dir/model/account_model.cpp.o	bbce4e0c210494d1
+1	377	1735547146594455487	CMakeFiles/demoUASC__2024.dir/view/account_view.cpp.o	295fb50fd1bab9ea
+1	378	1735547146594240610	CMakeFiles/demoUASC__2024.dir/database/account_db.cpp.o	a1d48877d5f3792e
+378	402	1735547146971086538	demoUASC__2024	4f7713a2263f8e5e

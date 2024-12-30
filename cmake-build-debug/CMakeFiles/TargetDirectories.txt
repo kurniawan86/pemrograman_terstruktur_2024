@@ -1,0 +1,3 @@
+/Users/muchamadkurniawan/CLionProjects/pemrograman_terstruktur_2024/cmake-build-debug/CMakeFiles/demoUASC__2024.dir
+/Users/muchamadkurniawan/CLionProjects/pemrograman_terstruktur_2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/muchamadkurniawan/CLionProjects/pemrograman_terstruktur_2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
